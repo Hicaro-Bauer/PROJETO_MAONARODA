@@ -44,10 +44,6 @@ Trabalho de conclusão de Matéria. Nessa ocasião, foi utilizada a linguagem de
 <img src="https://user-images.githubusercontent.com/105173431/209453057-298e4cf9-086b-431f-a91e-55169698bb8a.png" />
 
 <br/><br/>
-<h2> Simulação de Compra a Vista </h2>
-<img src="https://user-images.githubusercontent.com/105173431/209453057-298e4cf9-086b-431f-a91e-55169698bb8a.png" />
-
-<br/><br/>
 <h2> Simulação de Compra no Crédito </h2>
 <h4> Por meio do slider, é possível alterar o parcelamento. O valor é calculado e atribuído na Label correspondente automaticamente. </h4>
 <img src="https://user-images.githubusercontent.com/105173431/209453063-5061ba36-7741-4692-8c32-2809d352d14f.png" />
