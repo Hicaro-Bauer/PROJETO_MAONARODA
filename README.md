@@ -12,18 +12,6 @@ Trabalho de conclusão de Matéria. Nessa ocasião, foi utilizada a linguagem de
 <img src="https://user-images.githubusercontent.com/105173431/209453008-0b8d774c-c1ba-4584-b16f-89ce12887571.png" />
 
 <br/><br/>
-<h2> Tela de Login </h2>
-<img src="https://user-images.githubusercontent.com/105173431/209452994-413b7b2d-b795-47b8-8d11-8ad28fa243cf.png" />
-
-<br/><br/>
-<h2> Tela de Login </h2>
-<img src="https://user-images.githubusercontent.com/105173431/209452994-413b7b2d-b795-47b8-8d11-8ad28fa243cf.png" />
-
-<br/><br/>
-<h2> Tela de Cadastro </h2>
-<img src="https://user-images.githubusercontent.com/105173431/209452994-413b7b2d-b795-47b8-8d11-8ad28fa243cf.png" />
-
-<br/><br/>
 <h2> Menu Principal </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209453015-36fd8001-eca8-47ca-86c8-0eb9f1d5c925.png" />
 
