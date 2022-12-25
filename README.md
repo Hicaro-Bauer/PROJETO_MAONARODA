@@ -4,6 +4,10 @@ Trabalho de conclusão de Matéria. Nessa ocasião, foi utilizada a linguagem de
 <h4> Esse foi um projeto cuja a premissa era realizar um sistema para uma empresa de venda e aluguel de veículos. Assim como foi especificado na atividade, após a realização da simulação dos métodos de pagamento, o usuário deveria ser redirecionado ao menu de Agendamento. </h4>
 <br/><br/>
 
+<h2> Diagrama de Classes do Projeto </h2>
+<img src="https://user-images.githubusercontent.com/105173431/209454907-2067320e-c7a1-469e-ba64-a9559e6af669.png" />
+
+<br/><br/>
 <h2> Tela de Login </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209452994-413b7b2d-b795-47b8-8d11-8ad28fa243cf.png" />
 
