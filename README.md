@@ -4,6 +4,7 @@ Trabalho de conclusão de Matéria. Nessa ocasião, foi utilizada a linguagem de
 <h4> Esse foi um projeto cuja a premissa era realizar um sistema para uma empresa de venda e aluguel de veículos. Assim como foi especificado na atividade, após a realização da simulação dos métodos de pagamento, o usuário deveria ser redirecionado ao menu de Agendamento. </h4>
 <br/><br/>
 
+<div align="center">
 <h2> Diagrama de Classes do Projeto </h2>
 <img src="https://user-images.githubusercontent.com/105173431/209454907-2067320e-c7a1-469e-ba64-a9559e6af669.png" />
 
@@ -65,3 +66,4 @@ Trabalho de conclusão de Matéria. Nessa ocasião, foi utilizada a linguagem de
 <h2> Simulação de Aluguel </h2>
 <h4> Por meio da utilização de vetores e da classe Date, é possível calcular a diferença entre as duas datas que serão informadas. E dessa forma, gerar o valor total do aluguel automaticamente.</h4>
 <img src="https://user-images.githubusercontent.com/105173431/209453097-57569d49-a82f-4962-aca6-dc732792282b.png" />
+</div>
